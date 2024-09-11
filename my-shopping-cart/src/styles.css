@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+  }
+  
+  .product-list, .cart {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+  }
+  
+  .product, .cart-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
